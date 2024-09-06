@@ -54,11 +54,11 @@ function Dashboard() {
                   <Col md="8" xs="7">
                     <div className="numbers">
                       <p className="card-category">NOMBRE DEL ALUMNO:</p>
-                      <CardTitle tag="p">XXXXXXXX</CardTitle>
+                      <CardTitle tag="p">JARED EMILIANO FRIAS AGUILAR</CardTitle>
                       <p className="card-category">FECHA:</p>
-                      <CardTitle tag="p">XXXXXXX</CardTitle>
+                      <CardTitle tag="p">05 DE SEPTIEMBRE DE 2024</CardTitle>
                       <p className="card-category">CARRERA</p>
-                      <CardTitle tag="p">XXXXXXX</CardTitle>
+                      <CardTitle tag="p">DESARROLLO Y GESTIÓN DE SOFTWARE</CardTitle>
                       <p />
                     </div>
                   </Col>
